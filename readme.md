@@ -26,7 +26,3 @@ file that contains the following:
    ],
  }
 ```
-
-## Dependencies
-
-This package requires that you have 
