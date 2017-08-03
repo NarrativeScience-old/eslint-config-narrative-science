@@ -1,13 +1,13 @@
 {
   "name": "@narrativescience/eslint-config-narrative-science",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default ESLint package for Narrative Science",
   "main": "index.js",
   "author": "quill3team@narrativescience.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NarrativeScience/eslint-config-narrative-science",
+    "url": "https://github.com/NarrativeScience/eslint-config-narrative-science"
   },
   "dependencies": {
     "eslint-config-airbnb": "14.1.0"
