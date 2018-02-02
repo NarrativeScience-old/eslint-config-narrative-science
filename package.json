@@ -1,6 +1,6 @@
 {
   "name": "@narrativescience/eslint-config-narrative-science",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Default ESLint package for Narrative Science",
   "main": "index.js",
   "author": "quill3team@narrativescience.com",
