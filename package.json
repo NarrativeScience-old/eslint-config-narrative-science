@@ -1,6 +1,6 @@
 {
   "name": "@narrativescience/eslint-config-narrative-science",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Default ESLint package for Narrative Science",
   "main": "index.js",
   "author": "quill3team@narrativescience.com",
@@ -10,13 +10,12 @@
     "url": "https://github.com/NarrativeScience/eslint-config-narrative-science"
   },
   "dependencies": {
-    "eslint-config-airbnb": "14.1.0"
+    "eslint-config-airbnb": "^16.1.0"
   },
   "peerDependencies": {
-    "eslint": "3.19.0",
-    "eslint-plugin-babel": "4.1.1",
-    "eslint-plugin-jsx-a11y": "4.0.0",
-    "eslint-plugin-import": "2.2.0",
-    "eslint-plugin-react": "6.10.3"
+    "eslint": "^4.9.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
   }
 }
